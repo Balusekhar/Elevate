@@ -2,4 +2,5 @@
     <string name="app_name">Elevate</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_description">This is made as a University Project. The goal of the project is to learn software Engineering Techniques by doing projects.\n\nThe app goal is to help students register for any fitness events that the Rec Sports conducts. The students can also contact any Available Trainers if they want personal coaching and to help in their fitness journey.\n\nYour valuable feedback can help us to add more features and resolve any bugs.</string>
 </resources>
